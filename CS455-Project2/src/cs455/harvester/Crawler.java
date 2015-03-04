@@ -1,5 +1,6 @@
+package cs455.harvester;
 
-public class MainClass {
+public class Crawler {
 
 	/**
 	 * @param args

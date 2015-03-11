@@ -15,7 +15,7 @@ public class URLExtractor {
 		Config.LoggerProvider = LoggerProvider.DISABLED;
 		try {
 			// web page that needs to be parsed
-			final String pageUrl = "http://www.cs.colostate.edu/~cs455";
+			final String pageUrl = args[2];
 			Source source = new Source(new URL(pageUrl));
 			// get all 'a' tags
 			List<Element> aTags = source.getAllElements(HTMLElementName.A);

@@ -1,8 +1,8 @@
-denver:18080,http://www.bmb.colostate.edu
-boston:18080,http://www.biology.colostate.edu/
-atlanta:18080,http://www.chm.colostate.edu/
-austin:18080,http://www.cs.colostate.edu/cstop/index.html
-frankfort:18080,http://www.math.colostate.edu/
-helena:18080,http://www.physics.colostate.edu/
-jackson:18080,http://www.colostate.edu/Depts/Psychology/
-lincoln:18080,http://www.stat.colostate.edu/
+localhost:4434,http://www.bmb.colostate.edu
+localhost:4444,http://www.biology.colostate.edu/
+localhost:4454,http://www.chm.colostate.edu/
+localhost:4464,http://www.cs.colostate.edu/cstop/index.html
+localhost:4474,http://www.math.colostate.edu/
+localhost:4484,http://www.physics.colostate.edu/
+localhost:4494,http://www.colostate.edu/Depts/Psychology/
+localhost:4504,http://www.stat.colostate.edu/
